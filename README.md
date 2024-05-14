@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Tjark 👋
 
+I'm currently working on finishing my M.Sc. Physics at University Hamburg.
 <!--
 **Ruberhauptmann/Ruberhauptmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
